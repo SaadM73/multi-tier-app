@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: msaadm73/multi-tier-frontend:e5d6cc01e49c51a7b12b5944c8d89aa5065aa606
+          image: msaadm73/multi-tier-frontend:0b83bb6c9de65a55a980ec56452a17970a9a5a49
           ports:
             - containerPort: 80
 
